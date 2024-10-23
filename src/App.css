@@ -1,0 +1,164 @@
+
+.page1
+{
+  
+  display: flex;
+  flex-direction: row;
+  max-width: 1182px;
+  max-height: 522px;
+  gap: 5px;
+  
+  margin:0 auto;
+  margin-top: 180px; 
+ 
+}
+.dice-img
+{
+ 
+  max-width: 649px;
+  max-height: 522px;
+}
+.page1-text
+{
+  display: flex;
+  justify-content: center;
+  
+  flex-direction: column;
+  align-items: center;
+  width: 528px;
+ 
+
+}
+.dice-game
+{
+  max-width: 649px;
+  height: 144px;
+ 
+  font-weight: 700;
+  font-size: 57px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.play-now-btn
+{
+   display: flex;
+   justify-content: end;
+   max-width: 649px;
+   height: 44px;
+   align-items: center;
+   color: white;
+}
+.btn{
+  color: white;
+  background-color: rgb(2, 2, 1);
+  opacity: 1;
+  border-radius: 5px;
+ 
+  
+
+}
+.top-field
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin:  0 auto;
+}
+.sqrs-btn
+{
+   display: flex;
+   flex-direction: row;
+   gap: 20px;
+
+}
+.sqrs-text-field
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  
+}
+.select-number
+{
+   display: flex;
+   justify-content: end;
+   padding-right: 20px;
+}
+.sqr-btn
+{
+  Width:50px;
+height: 50px;
+font-size: large;
+font-weight: 700;
+}
+.score-field
+{
+  Width:50px;
+  height: 50px;
+  font-size: 50px;
+  font-weight: 700;
+}
+.dice-img-and-btn
+{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 36px;
+  max-height:449px ;
+ 
+}
+.reset-show-btn
+{
+   display: flex;
+   flex-direction: column;
+   gap :20px;
+   margin: -20px;
+}
+.reset-show-btn button{
+  height: 40px;
+  width: 140px;
+}
+.click
+{
+  margin-top: -30px;
+  font-size: 26px;
+  font-weight: 800;
+}
+.rules-game
+{
+  display: flex;
+  flex-direction: column;
+  max-height:415x ;
+  background-color:#FBF1F1;
+  ;
+  justify-content: center;
+ 
+  margin-top: 50px;
+  max-width: 794px;
+  border: .5px solid black;
+  
+
+}
+.how-play-game
+{
+  font-size: 20px;
+  font-weight: 800;
+}
+.page2-rule
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.playing-rules
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  
+}
